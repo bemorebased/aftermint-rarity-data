@@ -1,0 +1,1707 @@
+{
+  "metadata": {
+    "collection": "OGNodes",
+    "contract": "0xAB8cF356c18d377CC8e8127a1233005c126024E0",
+    "totalSupply": 111,
+    "generatedAt": "2025-09-29T13:39:08.034Z",
+    "version": "1.0.0",
+    "description": "Complete rarity data for OGNodes collection based on trait scarcity"
+  },
+  "rarityMap": {
+    "1": {
+      "tokenId": 1,
+      "name": "OGNode #1",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Crown"
+      },
+      "traitCount": 3,
+      "rarityScore": 9.9286,
+      "rank": 18,
+      "percentile": 16.22,
+      "tier": "Uncommon"
+    },
+    "2": {
+      "tokenId": 2,
+      "name": "OGNode #10",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Crown"
+      },
+      "traitCount": 3,
+      "rarityScore": 9.9286,
+      "rank": 19,
+      "percentile": 17.12,
+      "tier": "Uncommon"
+    },
+    "3": {
+      "tokenId": 3,
+      "name": "OGNode #100",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Throat"
+      },
+      "traitCount": 3,
+      "rarityScore": 9.4,
+      "rank": 32,
+      "percentile": 28.83,
+      "tier": "Uncommon"
+    },
+    "4": {
+      "tokenId": 4,
+      "name": "OGNode #101",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Throat"
+      },
+      "traitCount": 3,
+      "rarityScore": 9.4,
+      "rank": 33,
+      "percentile": 29.73,
+      "tier": "Common"
+    },
+    "5": {
+      "tokenId": 5,
+      "name": "OGNode #102",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Throat"
+      },
+      "traitCount": 3,
+      "rarityScore": 9.4,
+      "rank": 34,
+      "percentile": 30.63,
+      "tier": "Common"
+    },
+    "6": {
+      "tokenId": 6,
+      "name": "OGNode #103",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Throat"
+      },
+      "traitCount": 3,
+      "rarityScore": 9.4,
+      "rank": 35,
+      "percentile": 31.53,
+      "tier": "Common"
+    },
+    "7": {
+      "tokenId": 7,
+      "name": "OGNode #104",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Throat"
+      },
+      "traitCount": 3,
+      "rarityScore": 9.4,
+      "rank": 36,
+      "percentile": 32.43,
+      "tier": "Common"
+    },
+    "8": {
+      "tokenId": 8,
+      "name": "OGNode #105",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Throat"
+      },
+      "traitCount": 3,
+      "rarityScore": 9.4,
+      "rank": 37,
+      "percentile": 33.33,
+      "tier": "Common"
+    },
+    "9": {
+      "tokenId": 9,
+      "name": "OGNode #106",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Throat"
+      },
+      "traitCount": 3,
+      "rarityScore": 9.4,
+      "rank": 38,
+      "percentile": 34.23,
+      "tier": "Common"
+    },
+    "10": {
+      "tokenId": 10,
+      "name": "OGNode #107",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Throat"
+      },
+      "traitCount": 3,
+      "rarityScore": 9.4,
+      "rank": 39,
+      "percentile": 35.14,
+      "tier": "Common"
+    },
+    "11": {
+      "tokenId": 11,
+      "name": "OGNode #108",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Throat"
+      },
+      "traitCount": 3,
+      "rarityScore": 9.4,
+      "rank": 40,
+      "percentile": 36.04,
+      "tier": "Common"
+    },
+    "12": {
+      "tokenId": 12,
+      "name": "OGNode #109",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Throat"
+      },
+      "traitCount": 3,
+      "rarityScore": 9.4,
+      "rank": 41,
+      "percentile": 36.94,
+      "tier": "Common"
+    },
+    "13": {
+      "tokenId": 13,
+      "name": "OGNode #11",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Crown"
+      },
+      "traitCount": 3,
+      "rarityScore": 9.9286,
+      "rank": 20,
+      "percentile": 18.02,
+      "tier": "Uncommon"
+    },
+    "14": {
+      "tokenId": 14,
+      "name": "OGNode #110",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Throat"
+      },
+      "traitCount": 3,
+      "rarityScore": 9.4,
+      "rank": 42,
+      "percentile": 37.84,
+      "tier": "Common"
+    },
+    "15": {
+      "tokenId": 15,
+      "name": "OGNode #111",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Throat"
+      },
+      "traitCount": 3,
+      "rarityScore": 9.4,
+      "rank": 43,
+      "percentile": 38.74,
+      "tier": "Common"
+    },
+    "16": {
+      "tokenId": 16,
+      "name": "OGNode #12",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Crown"
+      },
+      "traitCount": 3,
+      "rarityScore": 9.9286,
+      "rank": 21,
+      "percentile": 18.92,
+      "tier": "Uncommon"
+    },
+    "17": {
+      "tokenId": 17,
+      "name": "OGNode #13",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Crown"
+      },
+      "traitCount": 3,
+      "rarityScore": 9.9286,
+      "rank": 22,
+      "percentile": 19.82,
+      "tier": "Uncommon"
+    },
+    "18": {
+      "tokenId": 18,
+      "name": "OGNode #14",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Crown"
+      },
+      "traitCount": 3,
+      "rarityScore": 9.9286,
+      "rank": 23,
+      "percentile": 20.72,
+      "tier": "Uncommon"
+    },
+    "19": {
+      "tokenId": 19,
+      "name": "OGNode #15",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Heart"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.8261,
+      "rank": 64,
+      "percentile": 57.66,
+      "tier": "Common"
+    },
+    "20": {
+      "tokenId": 20,
+      "name": "OGNode #16",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Heart"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.8261,
+      "rank": 65,
+      "percentile": 58.56,
+      "tier": "Common"
+    },
+    "21": {
+      "tokenId": 21,
+      "name": "OGNode #17",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Heart"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.8261,
+      "rank": 66,
+      "percentile": 59.46,
+      "tier": "Common"
+    },
+    "22": {
+      "tokenId": 22,
+      "name": "OGNode #18",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Heart"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.8261,
+      "rank": 67,
+      "percentile": 60.36,
+      "tier": "Common"
+    },
+    "23": {
+      "tokenId": 23,
+      "name": "OGNode #19",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Heart"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.8261,
+      "rank": 68,
+      "percentile": 61.26,
+      "tier": "Common"
+    },
+    "24": {
+      "tokenId": 24,
+      "name": "OGNode #2",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Crown"
+      },
+      "traitCount": 3,
+      "rarityScore": 9.9286,
+      "rank": 24,
+      "percentile": 21.62,
+      "tier": "Uncommon"
+    },
+    "25": {
+      "tokenId": 25,
+      "name": "OGNode #20",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Heart"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.8261,
+      "rank": 69,
+      "percentile": 62.16,
+      "tier": "Common"
+    },
+    "26": {
+      "tokenId": 26,
+      "name": "OGNode #21",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Heart"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.8261,
+      "rank": 70,
+      "percentile": 63.06,
+      "tier": "Common"
+    },
+    "27": {
+      "tokenId": 27,
+      "name": "OGNode #22",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Heart"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.8261,
+      "rank": 71,
+      "percentile": 63.96,
+      "tier": "Common"
+    },
+    "28": {
+      "tokenId": 28,
+      "name": "OGNode #23",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Heart"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.8261,
+      "rank": 72,
+      "percentile": 64.86,
+      "tier": "Common"
+    },
+    "29": {
+      "tokenId": 29,
+      "name": "OGNode #24",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Heart"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.8261,
+      "rank": 73,
+      "percentile": 65.77,
+      "tier": "Common"
+    },
+    "30": {
+      "tokenId": 30,
+      "name": "OGNode #25",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Heart"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.8261,
+      "rank": 74,
+      "percentile": 66.67,
+      "tier": "Common"
+    },
+    "31": {
+      "tokenId": 31,
+      "name": "OGNode #26",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Heart"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.8261,
+      "rank": 75,
+      "percentile": 67.57,
+      "tier": "Common"
+    },
+    "32": {
+      "tokenId": 32,
+      "name": "OGNode #27",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Heart"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.8261,
+      "rank": 76,
+      "percentile": 68.47,
+      "tier": "Common"
+    },
+    "33": {
+      "tokenId": 33,
+      "name": "OGNode #28",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Heart"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.8261,
+      "rank": 77,
+      "percentile": 69.37,
+      "tier": "Common"
+    },
+    "34": {
+      "tokenId": 34,
+      "name": "OGNode #29",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Heart"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.8261,
+      "rank": 78,
+      "percentile": 70.27,
+      "tier": "Common"
+    },
+    "35": {
+      "tokenId": 35,
+      "name": "OGNode #3",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Crown"
+      },
+      "traitCount": 3,
+      "rarityScore": 9.9286,
+      "rank": 25,
+      "percentile": 22.52,
+      "tier": "Uncommon"
+    },
+    "36": {
+      "tokenId": 36,
+      "name": "OGNode #30",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Heart"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.8261,
+      "rank": 79,
+      "percentile": 71.17,
+      "tier": "Common"
+    },
+    "37": {
+      "tokenId": 37,
+      "name": "OGNode #31",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Heart"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.8261,
+      "rank": 80,
+      "percentile": 72.07,
+      "tier": "Common"
+    },
+    "38": {
+      "tokenId": 38,
+      "name": "OGNode #32",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Heart"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.8261,
+      "rank": 81,
+      "percentile": 72.97,
+      "tier": "Common"
+    },
+    "39": {
+      "tokenId": 39,
+      "name": "OGNode #33",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Heart"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.8261,
+      "rank": 82,
+      "percentile": 73.87,
+      "tier": "Common"
+    },
+    "40": {
+      "tokenId": 40,
+      "name": "OGNode #34",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Heart"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.8261,
+      "rank": 83,
+      "percentile": 74.77,
+      "tier": "Common"
+    },
+    "41": {
+      "tokenId": 41,
+      "name": "OGNode #35",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Heart"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.8261,
+      "rank": 84,
+      "percentile": 75.68,
+      "tier": "Common"
+    },
+    "42": {
+      "tokenId": 42,
+      "name": "OGNode #36",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Heart"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.8261,
+      "rank": 85,
+      "percentile": 76.58,
+      "tier": "Common"
+    },
+    "43": {
+      "tokenId": 43,
+      "name": "OGNode #37",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Heart"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.8261,
+      "rank": 86,
+      "percentile": 77.48,
+      "tier": "Common"
+    },
+    "44": {
+      "tokenId": 44,
+      "name": "OGNode #38",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Root"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.44,
+      "rank": 87,
+      "percentile": 78.38,
+      "tier": "Common"
+    },
+    "45": {
+      "tokenId": 45,
+      "name": "OGNode #39",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Root"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.44,
+      "rank": 88,
+      "percentile": 79.28,
+      "tier": "Common"
+    },
+    "46": {
+      "tokenId": 46,
+      "name": "OGNode #4",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Crown"
+      },
+      "traitCount": 3,
+      "rarityScore": 9.9286,
+      "rank": 26,
+      "percentile": 23.42,
+      "tier": "Uncommon"
+    },
+    "47": {
+      "tokenId": 47,
+      "name": "OGNode #40",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Root"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.44,
+      "rank": 89,
+      "percentile": 80.18,
+      "tier": "Common"
+    },
+    "48": {
+      "tokenId": 48,
+      "name": "OGNode #41",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Root"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.44,
+      "rank": 90,
+      "percentile": 81.08,
+      "tier": "Common"
+    },
+    "49": {
+      "tokenId": 49,
+      "name": "OGNode #42",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Root"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.44,
+      "rank": 91,
+      "percentile": 81.98,
+      "tier": "Common"
+    },
+    "50": {
+      "tokenId": 50,
+      "name": "OGNode #43",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Root"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.44,
+      "rank": 92,
+      "percentile": 82.88,
+      "tier": "Common"
+    },
+    "51": {
+      "tokenId": 51,
+      "name": "OGNode #44",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Root"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.44,
+      "rank": 93,
+      "percentile": 83.78,
+      "tier": "Common"
+    },
+    "52": {
+      "tokenId": 52,
+      "name": "OGNode #45",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Root"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.44,
+      "rank": 94,
+      "percentile": 84.68,
+      "tier": "Common"
+    },
+    "53": {
+      "tokenId": 53,
+      "name": "OGNode #46",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Root"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.44,
+      "rank": 95,
+      "percentile": 85.59,
+      "tier": "Common"
+    },
+    "54": {
+      "tokenId": 54,
+      "name": "OGNode #47",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Root"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.44,
+      "rank": 96,
+      "percentile": 86.49,
+      "tier": "Common"
+    },
+    "55": {
+      "tokenId": 55,
+      "name": "OGNode #48",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Root"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.44,
+      "rank": 97,
+      "percentile": 87.39,
+      "tier": "Common"
+    },
+    "56": {
+      "tokenId": 56,
+      "name": "OGNode #49",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Root"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.44,
+      "rank": 98,
+      "percentile": 88.29,
+      "tier": "Common"
+    },
+    "57": {
+      "tokenId": 57,
+      "name": "OGNode #5",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Crown"
+      },
+      "traitCount": 3,
+      "rarityScore": 9.9286,
+      "rank": 27,
+      "percentile": 24.32,
+      "tier": "Uncommon"
+    },
+    "58": {
+      "tokenId": 58,
+      "name": "OGNode #50",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Root"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.44,
+      "rank": 99,
+      "percentile": 89.19,
+      "tier": "Common"
+    },
+    "59": {
+      "tokenId": 59,
+      "name": "OGNode #51",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Root"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.44,
+      "rank": 100,
+      "percentile": 90.09,
+      "tier": "Common"
+    },
+    "60": {
+      "tokenId": 60,
+      "name": "OGNode #52",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Root"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.44,
+      "rank": 101,
+      "percentile": 90.99,
+      "tier": "Common"
+    },
+    "61": {
+      "tokenId": 61,
+      "name": "OGNode #53",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Root"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.44,
+      "rank": 102,
+      "percentile": 91.89,
+      "tier": "Common"
+    },
+    "62": {
+      "tokenId": 62,
+      "name": "OGNode #54",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Root"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.44,
+      "rank": 103,
+      "percentile": 92.79,
+      "tier": "Common"
+    },
+    "63": {
+      "tokenId": 63,
+      "name": "OGNode #55",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Root"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.44,
+      "rank": 104,
+      "percentile": 93.69,
+      "tier": "Common"
+    },
+    "64": {
+      "tokenId": 64,
+      "name": "OGNode #56",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Root"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.44,
+      "rank": 105,
+      "percentile": 94.59,
+      "tier": "Common"
+    },
+    "65": {
+      "tokenId": 65,
+      "name": "OGNode #57",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Root"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.44,
+      "rank": 106,
+      "percentile": 95.5,
+      "tier": "Common"
+    },
+    "66": {
+      "tokenId": 66,
+      "name": "OGNode #58",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Root"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.44,
+      "rank": 107,
+      "percentile": 96.4,
+      "tier": "Common"
+    },
+    "67": {
+      "tokenId": 67,
+      "name": "OGNode #59",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Root"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.44,
+      "rank": 108,
+      "percentile": 97.3,
+      "tier": "Common"
+    },
+    "68": {
+      "tokenId": 68,
+      "name": "OGNode #6",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Crown"
+      },
+      "traitCount": 3,
+      "rarityScore": 9.9286,
+      "rank": 28,
+      "percentile": 25.23,
+      "tier": "Uncommon"
+    },
+    "69": {
+      "tokenId": 69,
+      "name": "OGNode #60",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Root"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.44,
+      "rank": 109,
+      "percentile": 98.2,
+      "tier": "Common"
+    },
+    "70": {
+      "tokenId": 70,
+      "name": "OGNode #61",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Root"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.44,
+      "rank": 110,
+      "percentile": 99.1,
+      "tier": "Common"
+    },
+    "71": {
+      "tokenId": 71,
+      "name": "OGNode #62",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Root"
+      },
+      "traitCount": 3,
+      "rarityScore": 6.44,
+      "rank": 111,
+      "percentile": 100,
+      "tier": "Common"
+    },
+    "72": {
+      "tokenId": 72,
+      "name": "OGNode #63",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Sacral"
+      },
+      "traitCount": 3,
+      "rarityScore": 8.5294,
+      "rank": 47,
+      "percentile": 42.34,
+      "tier": "Common"
+    },
+    "73": {
+      "tokenId": 73,
+      "name": "OGNode #64",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Sacral"
+      },
+      "traitCount": 3,
+      "rarityScore": 8.5294,
+      "rank": 48,
+      "percentile": 43.24,
+      "tier": "Common"
+    },
+    "74": {
+      "tokenId": 74,
+      "name": "OGNode #65",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Sacral"
+      },
+      "traitCount": 3,
+      "rarityScore": 8.5294,
+      "rank": 49,
+      "percentile": 44.14,
+      "tier": "Common"
+    },
+    "75": {
+      "tokenId": 75,
+      "name": "OGNode #66",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Sacral"
+      },
+      "traitCount": 3,
+      "rarityScore": 8.5294,
+      "rank": 50,
+      "percentile": 45.05,
+      "tier": "Common"
+    },
+    "76": {
+      "tokenId": 76,
+      "name": "OGNode #67",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Sacral"
+      },
+      "traitCount": 3,
+      "rarityScore": 8.5294,
+      "rank": 51,
+      "percentile": 45.95,
+      "tier": "Common"
+    },
+    "77": {
+      "tokenId": 77,
+      "name": "OGNode #68",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Sacral"
+      },
+      "traitCount": 3,
+      "rarityScore": 8.5294,
+      "rank": 52,
+      "percentile": 46.85,
+      "tier": "Common"
+    },
+    "78": {
+      "tokenId": 78,
+      "name": "OGNode #69",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Sacral"
+      },
+      "traitCount": 3,
+      "rarityScore": 8.5294,
+      "rank": 53,
+      "percentile": 47.75,
+      "tier": "Common"
+    },
+    "79": {
+      "tokenId": 79,
+      "name": "OGNode #7",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Crown"
+      },
+      "traitCount": 3,
+      "rarityScore": 9.9286,
+      "rank": 29,
+      "percentile": 26.13,
+      "tier": "Uncommon"
+    },
+    "80": {
+      "tokenId": 80,
+      "name": "OGNode #70",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Sacral"
+      },
+      "traitCount": 3,
+      "rarityScore": 8.5294,
+      "rank": 54,
+      "percentile": 48.65,
+      "tier": "Common"
+    },
+    "81": {
+      "tokenId": 81,
+      "name": "OGNode #71",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Sacral"
+      },
+      "traitCount": 3,
+      "rarityScore": 8.5294,
+      "rank": 55,
+      "percentile": 49.55,
+      "tier": "Common"
+    },
+    "82": {
+      "tokenId": 82,
+      "name": "OGNode #72",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Sacral"
+      },
+      "traitCount": 3,
+      "rarityScore": 8.5294,
+      "rank": 56,
+      "percentile": 50.45,
+      "tier": "Common"
+    },
+    "83": {
+      "tokenId": 83,
+      "name": "OGNode #73",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Sacral"
+      },
+      "traitCount": 3,
+      "rarityScore": 8.5294,
+      "rank": 57,
+      "percentile": 51.35,
+      "tier": "Common"
+    },
+    "84": {
+      "tokenId": 84,
+      "name": "OGNode #74",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Sacral"
+      },
+      "traitCount": 3,
+      "rarityScore": 8.5294,
+      "rank": 58,
+      "percentile": 52.25,
+      "tier": "Common"
+    },
+    "85": {
+      "tokenId": 85,
+      "name": "OGNode #75",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Sacral"
+      },
+      "traitCount": 3,
+      "rarityScore": 8.5294,
+      "rank": 59,
+      "percentile": 53.15,
+      "tier": "Common"
+    },
+    "86": {
+      "tokenId": 86,
+      "name": "OGNode #76",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Sacral"
+      },
+      "traitCount": 3,
+      "rarityScore": 8.5294,
+      "rank": 60,
+      "percentile": 54.05,
+      "tier": "Common"
+    },
+    "87": {
+      "tokenId": 87,
+      "name": "OGNode #77",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Sacral"
+      },
+      "traitCount": 3,
+      "rarityScore": 8.5294,
+      "rank": 61,
+      "percentile": 54.95,
+      "tier": "Common"
+    },
+    "88": {
+      "tokenId": 88,
+      "name": "OGNode #78",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Sacral"
+      },
+      "traitCount": 3,
+      "rarityScore": 8.5294,
+      "rank": 62,
+      "percentile": 55.86,
+      "tier": "Common"
+    },
+    "89": {
+      "tokenId": 89,
+      "name": "OGNode #79",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Sacral"
+      },
+      "traitCount": 3,
+      "rarityScore": 8.5294,
+      "rank": 63,
+      "percentile": 56.76,
+      "tier": "Common"
+    },
+    "90": {
+      "tokenId": 90,
+      "name": "OGNode #8",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Crown"
+      },
+      "traitCount": 3,
+      "rarityScore": 9.9286,
+      "rank": 30,
+      "percentile": 27.03,
+      "tier": "Uncommon"
+    },
+    "91": {
+      "tokenId": 91,
+      "name": "OGNode #80",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Solar Plexus"
+      },
+      "traitCount": 3,
+      "rarityScore": 14.3333,
+      "rank": 9,
+      "percentile": 8.11,
+      "tier": "Rare"
+    },
+    "92": {
+      "tokenId": 92,
+      "name": "OGNode #81",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Solar Plexus"
+      },
+      "traitCount": 3,
+      "rarityScore": 14.3333,
+      "rank": 10,
+      "percentile": 9.01,
+      "tier": "Rare"
+    },
+    "93": {
+      "tokenId": 93,
+      "name": "OGNode #82",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Solar Plexus"
+      },
+      "traitCount": 3,
+      "rarityScore": 14.3333,
+      "rank": 11,
+      "percentile": 9.91,
+      "tier": "Rare"
+    },
+    "94": {
+      "tokenId": 94,
+      "name": "OGNode #83",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Solar Plexus"
+      },
+      "traitCount": 3,
+      "rarityScore": 14.3333,
+      "rank": 12,
+      "percentile": 10.81,
+      "tier": "Rare"
+    },
+    "95": {
+      "tokenId": 95,
+      "name": "OGNode #84",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Solar Plexus"
+      },
+      "traitCount": 3,
+      "rarityScore": 14.3333,
+      "rank": 13,
+      "percentile": 11.71,
+      "tier": "Rare"
+    },
+    "96": {
+      "tokenId": 96,
+      "name": "OGNode #85",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Solar Plexus"
+      },
+      "traitCount": 3,
+      "rarityScore": 14.3333,
+      "rank": 14,
+      "percentile": 12.61,
+      "tier": "Rare"
+    },
+    "97": {
+      "tokenId": 97,
+      "name": "OGNode #86",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Solar Plexus"
+      },
+      "traitCount": 3,
+      "rarityScore": 14.3333,
+      "rank": 15,
+      "percentile": 13.51,
+      "tier": "Rare"
+    },
+    "98": {
+      "tokenId": 98,
+      "name": "OGNode #87",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Solar Plexus"
+      },
+      "traitCount": 3,
+      "rarityScore": 14.3333,
+      "rank": 16,
+      "percentile": 14.41,
+      "tier": "Rare"
+    },
+    "99": {
+      "tokenId": 99,
+      "name": "OGNode #88",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Solar Plexus"
+      },
+      "traitCount": 3,
+      "rarityScore": 14.3333,
+      "rank": 17,
+      "percentile": 15.32,
+      "tier": "Uncommon"
+    },
+    "100": {
+      "tokenId": 100,
+      "name": "OGNode #89",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Raam Naam"
+      },
+      "traitCount": 3,
+      "rarityScore": 113,
+      "rank": 1,
+      "percentile": 0.9,
+      "tier": "Legendary"
+    },
+    "101": {
+      "tokenId": 101,
+      "name": "OGNode #9",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Crown"
+      },
+      "traitCount": 3,
+      "rarityScore": 9.9286,
+      "rank": 31,
+      "percentile": 27.93,
+      "tier": "Uncommon"
+    },
+    "102": {
+      "tokenId": 102,
+      "name": "OGNode #90",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Third Eye"
+      },
+      "traitCount": 3,
+      "rarityScore": 17.8571,
+      "rank": 2,
+      "percentile": 1.8,
+      "tier": "Epic"
+    },
+    "103": {
+      "tokenId": 103,
+      "name": "OGNode #91",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Third Eye"
+      },
+      "traitCount": 3,
+      "rarityScore": 17.8571,
+      "rank": 3,
+      "percentile": 2.7,
+      "tier": "Epic"
+    },
+    "104": {
+      "tokenId": 104,
+      "name": "OGNode #92",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Third Eye"
+      },
+      "traitCount": 3,
+      "rarityScore": 17.8571,
+      "rank": 4,
+      "percentile": 3.6,
+      "tier": "Epic"
+    },
+    "105": {
+      "tokenId": 105,
+      "name": "OGNode #93",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Third Eye"
+      },
+      "traitCount": 3,
+      "rarityScore": 17.8571,
+      "rank": 5,
+      "percentile": 4.5,
+      "tier": "Epic"
+    },
+    "106": {
+      "tokenId": 106,
+      "name": "OGNode #94",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Third Eye"
+      },
+      "traitCount": 3,
+      "rarityScore": 17.8571,
+      "rank": 6,
+      "percentile": 5.41,
+      "tier": "Rare"
+    },
+    "107": {
+      "tokenId": 107,
+      "name": "OGNode #95",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Third Eye"
+      },
+      "traitCount": 3,
+      "rarityScore": 17.8571,
+      "rank": 7,
+      "percentile": 6.31,
+      "tier": "Rare"
+    },
+    "108": {
+      "tokenId": 108,
+      "name": "OGNode #96",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Third Eye"
+      },
+      "traitCount": 3,
+      "rarityScore": 17.8571,
+      "rank": 8,
+      "percentile": 7.21,
+      "tier": "Rare"
+    },
+    "109": {
+      "tokenId": 109,
+      "name": "OGNode #97",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Throat"
+      },
+      "traitCount": 3,
+      "rarityScore": 9.4,
+      "rank": 44,
+      "percentile": 39.64,
+      "tier": "Common"
+    },
+    "110": {
+      "tokenId": 110,
+      "name": "OGNode #98",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Throat"
+      },
+      "traitCount": 3,
+      "rarityScore": 9.4,
+      "rank": 45,
+      "percentile": 40.54,
+      "tier": "Common"
+    },
+    "111": {
+      "tokenId": 111,
+      "name": "OGNode #99",
+      "traits": {
+        "LifeNodes": "OG",
+        "Inscribed": "On-BasedAI",
+        "Chakra": "Throat"
+      },
+      "traitCount": 3,
+      "rarityScore": 9.4,
+      "rank": 46,
+      "percentile": 41.44,
+      "tier": "Common"
+    }
+  },
+  "statistics": {
+    "totalSupply": 111,
+    "generatedAt": "2025-09-29T13:39:07.905Z",
+    "traitFrequencies": {
+      "LifeNodes": {
+        "OG": 111
+      },
+      "Inscribed": {
+        "On-BasedAI": 111
+      },
+      "Chakra": {
+        "Crown": 14,
+        "Throat": 15,
+        "Heart": 23,
+        "Root": 25,
+        "Sacral": 17,
+        "Solar Plexus": 9,
+        "Raam Naam": 1,
+        "Third Eye": 7
+      }
+    },
+    "top10": [
+      {
+        "tokenId": 100,
+        "rank": 1,
+        "rarityScore": "113.0000",
+        "tier": "Legendary",
+        "traits": {
+          "LifeNodes": "OG",
+          "Inscribed": "On-BasedAI",
+          "Chakra": "Raam Naam"
+        }
+      },
+      {
+        "tokenId": 102,
+        "rank": 2,
+        "rarityScore": "17.8571",
+        "tier": "Epic",
+        "traits": {
+          "LifeNodes": "OG",
+          "Inscribed": "On-BasedAI",
+          "Chakra": "Third Eye"
+        }
+      },
+      {
+        "tokenId": 103,
+        "rank": 3,
+        "rarityScore": "17.8571",
+        "tier": "Epic",
+        "traits": {
+          "LifeNodes": "OG",
+          "Inscribed": "On-BasedAI",
+          "Chakra": "Third Eye"
+        }
+      },
+      {
+        "tokenId": 104,
+        "rank": 4,
+        "rarityScore": "17.8571",
+        "tier": "Epic",
+        "traits": {
+          "LifeNodes": "OG",
+          "Inscribed": "On-BasedAI",
+          "Chakra": "Third Eye"
+        }
+      },
+      {
+        "tokenId": 105,
+        "rank": 5,
+        "rarityScore": "17.8571",
+        "tier": "Epic",
+        "traits": {
+          "LifeNodes": "OG",
+          "Inscribed": "On-BasedAI",
+          "Chakra": "Third Eye"
+        }
+      },
+      {
+        "tokenId": 106,
+        "rank": 6,
+        "rarityScore": "17.8571",
+        "tier": "Rare",
+        "traits": {
+          "LifeNodes": "OG",
+          "Inscribed": "On-BasedAI",
+          "Chakra": "Third Eye"
+        }
+      },
+      {
+        "tokenId": 107,
+        "rank": 7,
+        "rarityScore": "17.8571",
+        "tier": "Rare",
+        "traits": {
+          "LifeNodes": "OG",
+          "Inscribed": "On-BasedAI",
+          "Chakra": "Third Eye"
+        }
+      },
+      {
+        "tokenId": 108,
+        "rank": 8,
+        "rarityScore": "17.8571",
+        "tier": "Rare",
+        "traits": {
+          "LifeNodes": "OG",
+          "Inscribed": "On-BasedAI",
+          "Chakra": "Third Eye"
+        }
+      },
+      {
+        "tokenId": 91,
+        "rank": 9,
+        "rarityScore": "14.3333",
+        "tier": "Rare",
+        "traits": {
+          "LifeNodes": "OG",
+          "Inscribed": "On-BasedAI",
+          "Chakra": "Solar Plexus"
+        }
+      },
+      {
+        "tokenId": 92,
+        "rank": 10,
+        "rarityScore": "14.3333",
+        "tier": "Rare",
+        "traits": {
+          "LifeNodes": "OG",
+          "Inscribed": "On-BasedAI",
+          "Chakra": "Solar Plexus"
+        }
+      }
+    ],
+    "tierDistribution": {
+      "Legendary": 1,
+      "Epic": 4,
+      "Rare": 11,
+      "Uncommon": 16,
+      "Common": 79
+    }
+  }
+}
